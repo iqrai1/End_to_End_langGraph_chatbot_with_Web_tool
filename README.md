@@ -16,10 +16,10 @@ This repository contains an end-to-end chatbot implementation built using **Lang
 ## Demo / Screenshots
 
 ### Chatbot Interface  
-![Chatbot Interface](Screenshot_1.png)
+![Chatbot Interface](https://github.com/iqrai1/End_to_End_langGraph_chatbot_with_Web_tool/blob/main/Screenshot_1)
 
 ### LangGraph Architecture Diagram  
-![LangGraph Architecture](Screenshot_2.png)
+![LangGraph Architecture](https://github.com/iqrai1/End_to_End_langGraph_chatbot_with_Web_tool/blob/main/Screenshot_2)
 
 ---
 
